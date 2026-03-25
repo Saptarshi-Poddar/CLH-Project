@@ -1,0 +1,24 @@
+Flight_Number,Airline,Operating_Day
+FX 5487,FX,Saturday
+FX 5460,FX,Sunday
+FX 0007,FX,Tuesday
+FX 0007,FX,Wednesday
+FX 0007,FX,Thursday
+FX 0007,FX,Friday
+AI 179,AI,Monday
+AI 179,AI,Tuesday
+AI 179,AI,Friday
+AI 179,AI,Saturday
+QR 557,QR,Tuesday
+QR 557,QR,Wednesday
+QR 557,QR,Thursday
+QR 557,QR,Friday
+QR 557,QR,Saturday
+QR 557,QR,Sunday
+EK 507,EK,Sunday
+6E 021,Indigo,Tuesday
+6E 021,Indigo,Wednesday
+6E 021,Indigo,Thursday
+6E 021,Indigo,Friday
+6E 021,Indigo,Saturday
+6E 021,Indigo,Sunday
